@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BTC", "BTC\BTC.vcxproj", "{DD8A29A3-17D7-431C-809E-0FE6A8D7D762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD8A29A3-17D7-431C-809E-0FE6A8D7D762}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD8A29A3-17D7-431C-809E-0FE6A8D7D762}.Debug|Win32.Build.0 = Debug|Win32
+		{DD8A29A3-17D7-431C-809E-0FE6A8D7D762}.Release|Win32.ActiveCfg = Release|Win32
+		{DD8A29A3-17D7-431C-809E-0FE6A8D7D762}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
